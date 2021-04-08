@@ -10,7 +10,7 @@
     <view class='text-sm'>原名：法语动词变位记忆小助手</view>
     <view class="text-sm">DEPUIS 2019.3</view>
     <view class='text-sm'>微信公众号：不淡定的实验室</view>
-    <view class="text-sm italic">https://budanding.cn/conj-helper</view>
+    <view class="text-sm italic">https://xd.sh.cn/conj-helper</view>
     <view class="dash-conj"></view>
     <view class="text-sm italic text-help">“动词变位数据库”来自 verbiste v0.1.45；“法语真人发音”来自 forvo.com ；使用了 ColorUI 组件库</view>
   </view>

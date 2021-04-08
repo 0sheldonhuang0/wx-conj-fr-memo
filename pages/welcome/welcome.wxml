@@ -33,9 +33,9 @@
 		</view>
 
 		<view class="text-xs">
-			<view class="text-grey text-margin">v3.8.2 (2021.2.7)</view>
+			<view class="text-grey text-margin">v3.8.3 (2021.4.8)</view>
 			<view class="text-grey text-margin">微信公众号：不淡定的实验室</view>
-			<view class="text-grey text-margin">https://budanding.cn</view>
+			<view class="text-grey text-margin">https://xd.sh.cn</view>
 		</view>
 
 		<official-account></official-account>
