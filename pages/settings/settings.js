@@ -269,7 +269,7 @@ Page({
   copy: function() {
     var self = this;
     wx.setClipboardData({
-      data: "https://budanding.cn/conj-helper",
+      data: "https://xd.sh.cn/conj-helper",
       success: function(res) {
         wx.showModal({
           title: '提示',
@@ -301,7 +301,7 @@ Page({
   zhuye: function() {
     var self = this;
     wx.setClipboardData({
-      data: "https://budanding.cn/conj-helper",
+      data: "https://xd.sh.cn/conj-helper",
       success: function(res) {
         wx.showModal({
           title: '提示',
@@ -354,6 +354,20 @@ Page({
     wx.navigateToMiniProgram({
       appId: 'wx4b37e8a18be82a4d',
       path: 'pages/index1/index1',
+      extraData: {
+        foo: 'bar'
+      },
+      envVersion: 'develop',
+      success(res) {
+        // 打开成功
+      }
+    })
+  },
+
+  budanding_shop: function() {
+    wx.navigateToMiniProgram({
+      appId: 'wx0d095359b1a7272a',
+      path: 'page/index/index',
       extraData: {
         foo: 'bar'
       },
