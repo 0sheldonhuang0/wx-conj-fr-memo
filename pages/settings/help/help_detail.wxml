@@ -20,7 +20,7 @@
       <text class="bold">浮窗</text>。
     </view>
     <view class='text-sm text-help'>更多说明请访问：
-      <text class="bold italic">https://budanding.cn/conj-helper</text></view>
+      <text class="bold italic">https://xd.sh.cn/conj-helper</text></view>
   </view>
 
   <view class="cu-bar light solid-bottom margin-top {{dark_mode==true?'blk-bg-grey2':'bg-blue'}}">

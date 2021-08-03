@@ -60,7 +60,7 @@
 				<text class="{{dark_mode==true?'blk-text-white':'text-grey'}}">🎈 小程序主页</text>
 			</view>
 			<view class="action">
-				<view class="cu-tag round bg-red light">https://budanding.cn/</view>
+				<view class="cu-tag round bg-red light">https://xd.sh.cn/</view>
 			</view>
 		</view>
 		<view class="cu-item arrow bg-white-last">
@@ -100,9 +100,11 @@
 	<view class="padding bg-white-last {{dark_mode==true?'blk-bg-grey3':'bg-white'}}">
 		<view class='box'>
 			<view class="cu-bar btn-group">
-				<button class='cu-btn bg-red round shadow' bindtap="hard_choice">艰难的选择</button>
+				<button class='cu-btn bg-red round shadow' bindtap="budanding_shop">不淡定的商铺</button>
+			</view>
+			<view class="cu-bar btn-group">
+				<button class='cu-btn bg-blue round shadow' bindtap="hard_choice">艰难的选择</button>
 			</view>
 		</view>
 	</view>
-
 </view>
